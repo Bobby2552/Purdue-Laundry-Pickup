@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "481342531536",
+    "firebase_url": "https://purdue-laundry-pickup.firebaseio.com",
+    "project_id": "purdue-laundry-pickup",
+    "storage_bucket": "purdue-laundry-pickup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481342531536:android:20daad290f77842b",
+        "android_client_info": {
+          "package_name": "com.bscholer.purduelaundrypickup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481342531536-nmv1papkttrhq463dc2hh5h6hs2mmmtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAssMKpEWZUO0i2W0uwtAyvRJGyFKt04Wg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
